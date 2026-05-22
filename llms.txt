@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Maipú
+
+> Geotechnical engineering services in Maipú, Chile.
+
+## Services
+- [Aislacion Sismica](https://maipu.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://maipu.geotecnia.sbs/anclajes/)
+- [Calicatas](https://maipu.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://maipu.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://maipu.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://maipu.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://maipu.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://maipu.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://maipu.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://maipu.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://maipu.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://maipu.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://maipu.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://maipu.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://maipu.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://maipu.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://maipu.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://maipu.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://maipu.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://maipu.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://maipu.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://maipu.geotecnia.sbs/masw/)
+- [Mejoramiento](https://maipu.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://maipu.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://maipu.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://maipu.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://maipu.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://maipu.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://maipu.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://maipu.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://maipu.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://maipu.geotecnia.sbs/resistividad/)
+- [Sismica](https://maipu.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://maipu.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://maipu.geotecnia.sbs/taludes/)
+- [Triaxial](https://maipu.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://maipu.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://maipu.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://maipu.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://maipu.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in Maipú, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
