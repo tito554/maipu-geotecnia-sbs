@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://maipu.geotecnia.sbs/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/resistividad</loc>
+    <loc>https://maipu.geotecnia.sbs/aislacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/ensayos-proctor</loc>
+    <loc>https://maipu.geotecnia.sbs/anclajes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/pavimento-flexible</loc>
+    <loc>https://maipu.geotecnia.sbs/calicatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/microzonificacion-sismica</loc>
+    <loc>https://maipu.geotecnia.sbs/cbr-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/granulometria</loc>
+    <loc>https://maipu.geotecnia.sbs/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/pilotes</loc>
+    <loc>https://maipu.geotecnia.sbs/columnas-grava/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/sondajes-spt</loc>
+    <loc>https://maipu.geotecnia.sbs/densidad-cono-arena/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/permeabilidad-in-situ</loc>
+    <loc>https://maipu.geotecnia.sbs/ensayo-cpt/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/monitoreo-excavaciones</loc>
+    <loc>https://maipu.geotecnia.sbs/ensayos-proctor/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/ensayo-cpt</loc>
+    <loc>https://maipu.geotecnia.sbs/estabilidad-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/zapatas</loc>
+    <loc>https://maipu.geotecnia.sbs/excavaciones-profundas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/losas-fundacion</loc>
+    <loc>https://maipu.geotecnia.sbs/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/pavimento-rigido</loc>
+    <loc>https://maipu.geotecnia.sbs/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/inyecciones</loc>
+    <loc>https://maipu.geotecnia.sbs/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/tuneles-suelo-blando</loc>
+    <loc>https://maipu.geotecnia.sbs/granulometria/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/refraccion-sismica</loc>
+    <loc>https://maipu.geotecnia.sbs/inyecciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/calicatas</loc>
+    <loc>https://maipu.geotecnia.sbs/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/triaxial</loc>
+    <loc>https://maipu.geotecnia.sbs/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/muros-contencion</loc>
+    <loc>https://maipu.geotecnia.sbs/licuefaccion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/aislacion-sismica</loc>
+    <loc>https://maipu.geotecnia.sbs/limites-atterberg/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/vibrocompactacion</loc>
+    <loc>https://maipu.geotecnia.sbs/losas-fundacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/limites-atterberg</loc>
+    <loc>https://maipu.geotecnia.sbs/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/licuefaccion</loc>
+    <loc>https://maipu.geotecnia.sbs/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/anclajes</loc>
+    <loc>https://maipu.geotecnia.sbs/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/columnas-grava</loc>
+    <loc>https://maipu.geotecnia.sbs/monitoreo-excavaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/masw</loc>
+    <loc>https://maipu.geotecnia.sbs/muros-contencion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/excavaciones-profundas</loc>
+    <loc>https://maipu.geotecnia.sbs/pavimento-flexible/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/densidad-cono-arena</loc>
+    <loc>https://maipu.geotecnia.sbs/pavimento-rigido/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/cbr-vial</loc>
+    <loc>https://maipu.geotecnia.sbs/permeabilidad-in-situ/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/estabilidad-taludes</loc>
+    <loc>https://maipu.geotecnia.sbs/pilotes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/contacto</loc>
+    <loc>https://maipu.geotecnia.sbs/refraccion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maipu.geotecnia.sbs/privacidad</loc>
+    <loc>https://maipu.geotecnia.sbs/resistividad/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/sondajes-spt/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/vibrocompactacion/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maipu.geotecnia.sbs/zapatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
